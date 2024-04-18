@@ -5,7 +5,7 @@ emoji==0.4.5
 flake8==3.6.0
 Flask==1.0
 Flask-OAuth==0.12
-gunicorn==19.7.1
+gunicorn==22.0.0
 httplib2==0.10.3
 itsdangerous==0.24
 Jinja2==2.10
